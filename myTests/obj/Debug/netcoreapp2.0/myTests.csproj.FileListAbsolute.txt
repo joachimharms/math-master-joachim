@@ -11,3 +11,5 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.AssemblyInfo.cs
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.dll
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myLib.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myLib.pdb

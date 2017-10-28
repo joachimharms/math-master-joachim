@@ -12,6 +12,6 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
   </ItemGroup>
 <ItemGroup>
-<ProjectReference Include = "e:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myLib\MathHelper.cs">
+<ProjectReference Include="e:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myLib\myLib.csproj" />
 </ItemGroup>
 </Project>
