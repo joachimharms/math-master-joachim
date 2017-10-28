@@ -5637,11 +5637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\myTests.csproj",
+      "projectUniqueName": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\myTests.csproj",
       "projectName": "myTests",
-      "projectPath": "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\myTests.csproj",
+      "projectPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\myTests.csproj",
       "packagesPath": "C:\\Users\\joach\\.nuget\\packages\\",
-      "outputPath": "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\obj\\",
+      "outputPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5660,8 +5660,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj": {
-              "projectPath": "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj"
+            "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj": {
+              "projectPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj"
             }
           }
         }
