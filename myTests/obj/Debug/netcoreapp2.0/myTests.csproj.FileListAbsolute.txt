@@ -1,0 +1,13 @@
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myTests.deps.json
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myTests.runtimeconfig.json
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myTests.runtimeconfig.dev.json
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myTests.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\bin\Debug\netcoreapp2.0\myTests.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.csproj.CoreCompileInputs.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.AssemblyInfoInputs.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.AssemblyInfo.cs
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.dll
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\2.TutorialProjects\EdxWritingProfessionalCode\math-master-joachim\myTests\obj\Debug\netcoreapp2.0\myTests.pdb
