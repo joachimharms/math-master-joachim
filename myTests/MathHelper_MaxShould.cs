@@ -3,12 +3,12 @@ using Xunit;
 
 namespace myTests
 {
-    public class UnitTest1
+    public class MaxHelper_MaxShould
     {
         [Fact]
-        public void Test1()
+        public void Return0GivenValuesOf0()
         {
-
+            
         }
     }
 }

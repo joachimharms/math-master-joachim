@@ -2,7 +2,11 @@
 
 namespace myLib
 {
-    public class Class1
+    public class MathHelper
     {
+        public int Max(int x, int y)
+        {
+            throw new NotImplementedException("Write some tests!");
+        }
     }
 }
