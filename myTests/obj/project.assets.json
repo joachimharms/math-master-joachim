@@ -5660,8 +5660,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj": {
-              "projectPath": "e:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj"
+            "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj": {
+              "projectPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\2.TutorialProjects\\EdxWritingProfessionalCode\\math-master-joachim\\myLib\\myLib.csproj"
             }
           }
         }
