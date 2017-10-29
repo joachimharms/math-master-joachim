@@ -15,7 +15,7 @@ namespace myTests
         [Theory]
         [InlineDataAttribute(89,89, 89)]
         [InlineDataAttribute(-40789,-40789, -40789)]
-        [InlineDataAttribute(275,275, 276)]
+        [InlineDataAttribute(275,275, 275)]
         [InlineDataAttribute(1,1, 1)]
         [InlineDataAttribute(9999,9999, 9999)]
         [InlineDataAttribute(0,0, 0)]
