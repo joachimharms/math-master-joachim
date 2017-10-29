@@ -25,5 +25,17 @@ namespace myTests
 
             Assert.Equal(expectedResult, result);
         }
+
+        [Theory]
+        [InlineDataAttribute(89,88, 89)]
+        [InlineDataAttribute(56,256, 256)]
+        [InlineDataAttribute(-9876,-11, -11)]
+        [InlineDataAttribute(0,-1, 0)]
+        public void ReturnMaxOfTwoDifferentValues(int value1, int value2, int expectedResult)
+        {
+            var result = _mathHelper.Max(value1, value2);
+
+            Assert.Equal(expectedResult, result);
+        }
     }
 }

@@ -10,7 +10,16 @@ namespace myLib
             {
                 return x;
             }
+            if(x > y)
+            {
+                return x;
+            }
+            else
+            {
+                return y;
+            }
             throw new NotImplementedException("Write some tests!");
+
         }
     }
 }
