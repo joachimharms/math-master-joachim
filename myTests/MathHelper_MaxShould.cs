@@ -17,16 +17,6 @@ namespace myTests
         {
             var result = _mathHelper.Max(0, 0);
 
-            // Wir ersetzen folgende Logik durch die Assertfunktion, die von xUnit bereitgestellt wird.
-            // if(result == 0)
-            // {
-            //     System.Console.WriteLine("Success");
-            // }
-            // else
-            // {
-            //     System.Console.WriteLine("Failed");
-            // }
-
             Assert.Equal(0, result);
         }
     }
