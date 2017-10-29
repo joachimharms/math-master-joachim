@@ -37,5 +37,25 @@ namespace myTests
 
             Assert.Equal(expectedResult, result);
         }
+
+        // Max( A, B) = Max(B, A)
+        /// <summary>
+        /// Test the fact that that Max() is commutative - returns the same
+        /// result independent of the order of the operands.
+        /// </summary>
+        [Fact]
+        public void ReturnSameResultIndependentOfOrder()
+        {
+            // Arrange
+           int x = 9;
+           int y = 81;
+
+            // Act
+           var result1 = _mathHelper.Max(x, y);
+           var result2 = _mathHelper.Max(y, x);
+
+            // Assert
+           Assert.Equal(result1, result2); 
+        }
     }
 }

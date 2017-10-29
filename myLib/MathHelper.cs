@@ -18,8 +18,6 @@ namespace myLib
             {
                 return y;
             }
-            throw new NotImplementedException("Write some tests!");
-
         }
     }
 }
